@@ -1,5 +1,5 @@
 # DAP 1860 DLINK Wifi Extender for Gamers
-your home networking guide, learn about home networking and how to install it easily
+Home Networking Guide!
 
 D-Link introduces a new Wi-Fi extender called DAP-1860. A number of excellent features were brought by this device. Anything?
 
